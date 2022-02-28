@@ -1,0 +1,11 @@
+//*****Introduction*****//
+>> Need to send a Rocket whithout falling down/avoid hitting obstacles to reach the destination point.
+Steps to follow:
+1. Movement of the player.
+2. Checking collisions.
+3. Fuel mechanism.
+4. Reaching final Destination.
+	
+
+Win Condition: Reaching Final Destination.
+Lose Condition: If a Rocket is hit by any Obstacles or boundaries.
